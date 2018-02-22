@@ -1,0 +1,63 @@
+main{
+	position: relative;
+	margin: 10px auto;
+	width: 60%;
+	min-width: 600px;
+	min-height: 500px;
+	background-color:rgb(184, 193, 209, 0.85)
+}
+
+img{
+	height: 400px;
+	width: 400px;
+	margin: 20px auto;
+	position: relative;
+	display: block;
+}
+
+#windchime{
+	transform: rotate(90deg);
+}
+
+#header{
+	position: relative;
+	text-align: center;
+	height: 70px;
+	font-family: 'Bellefair', serif;
+	font-size: 50px;
+	padding-top: 20px;
+	background-color:rgb(184, 193, 209, 0.85);
+	width: 60%;	
+	min-width: 600px;
+	margin: 20px auto;
+}
+
+h2{
+	font-family: 'Bellefair', serif;
+	background-color: black;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
+
+p{
+	font-family: 'PT Serif', serif;
+}
+
+.container{
+	padding: 10px 50px
+}
+
+body{
+	background-image: url("../images/dirtroad.jpg");
+	background-repeat: repeat-y;
+}
+
+.supportingImages{
+	position: relative;
+
+}
+
+.WorksCited p{
+	padding: 25px 30px;
+}
